@@ -1,2 +1,2 @@
 # Online-Shoping-System
-An online shopping platform hosted on our department's intranet with a backend based in MySQL and frontend implemented via Java. Added user authentication and product stock verification using SQL injection with a tightly coupled backend architecture to avoid data redundancy.
+Developed a shopping system with robust inventory management system using Java and SQL, with comprehensive admin and customer interfaces. Demonstrated expertise in product management, order processing, and sales reporting, leveraging SQL commands
